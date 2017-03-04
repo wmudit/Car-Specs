@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.google.carspecss">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher2"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Home"
+            android:label="@string/app_name"
+            android:theme="@style/MyTheme.Home">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Specifications"
+            android:label="@string/title_activity_specifications"
+            android:theme="@style/MyTheme" />
+        <activity
+            android:name=".Brand"
+            android:label="@string/title_activity_brand"
+            android:theme="@style/MyTheme" />
+        <activity
+            android:name=".List"
+            android:label="@string/title_activity_list"
+            android:theme="@style/MyTheme"> </activity>
+        <activity
+            android:name=".popupEngine"
+            android:theme="@style/popupTheme"> </activity>
+        <activity
+            android:name=".popupDisplacement"
+            android:theme="@style/popupTheme"> </activity>
+        <activity
+            android:name=".popupPower"
+            android:theme="@style/popupTheme"> </activity>
+        <activity
+            android:name=".popupTorque"
+            android:theme="@style/popupTheme"> </activity>
+        <activity
+            android:name=".popupCO2"
+            android:theme="@style/popupTheme"> </activity>
+        <activity android:name=".popupLayout"
+            android:theme="@style/popupTheme"> </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Car Specs</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_specifications">Specifications</string>
+    <string name="title_activity_brand">Brand</string>
+    <string name="title_activity_list">List</string>
+    <string name="layout">Automobile layout describes where the engine and drive wheels are found. There are three types of layouts: Front wheel drive, Rear wheel drive and All wheel drive. Front-wheel-drive layouts are those in which the front wheels of the vehicle are driven. Rear-wheel drive (RWD) typically places the engine in the front of the vehicle and the driven wheels are located at the rear, a configuration known as Front-engine, rear-wheel-drive layout (FR layout). All wheel drive refers to vehicles with two axles providing power to four wheel ends. </string>
+    <string name="engine">An engine is a machine designed to convert one form of energy into mechanical energy. Heat engines burn a fuel to create heat, which then creates a force. Electric motors convert electrical energy into mechanical motion; pneumatic motors use compressed air and clockwork motors in wind-up toys use elastic energy. In biological systems, molecular motors, like myosins in muscles, use chemical energy to create forces and eventually motion.</string>
+    <string name="disp">Engine displacement is the swept volume of all the pistons inside the cylinders of a reciprocating engine in a single movement from top dead centre (TDC) to bottom dead centre (BDC). It is commonly specified in cubic centimetres (cc or cm3), litres. Engine displacement does not include the total volume of the combustion chamber.</string>
+    <string name="torque">Torque is a rotating force produced by an engine’s crankshaft. The more torque an engine produces, the greater its ability to perform work. The measurement is the same as work, but slightly different. Since torque is a vector (acting in a certain direction), it’s quantified by the units pound-feet and newton-meters.</string>
+    <string name="power">Engine power or horsepower is the maximum power that an engine can put out. It can be expressed in kilowatts or horsepower. The power output depends on the size and design of the engine, but also on the speed at which it is running and the load or torque. Maximum power is achieved at relatively high speeds and at high load.</string>
+    <string name="co2">Carbon dioxide is a greenhouse gas. Motor vehicle CO2 emissions are part of the anthropogenic contribution to the growth of CO2 concentrations in the atmosphere which according to the vast majority of the scientific community is causing climate change. CO2 emission is measured in grams per kilometer. The lesser the emission the more eco friendly is the vehicle.</string>
+</resources>

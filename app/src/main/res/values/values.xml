@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_material_light">#d52864a3</color>
+    <color name="actionBarColor">#c8480d46</color>
+    <color name="statusBarColor">#af000000</color>
+    <color name="backgroundColor">#091127</color>
+</resources>
