@@ -1,4 +1,5 @@
-# Car Specs app
+# Car Specs
+Car Specs Android application
 
 Home Activity
 
